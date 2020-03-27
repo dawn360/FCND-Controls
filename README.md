@@ -1,4 +1,4 @@
-# FCND-Controls
+# Cascaded PID Controller C++
 Cascaded PID controller for a Quadrotor in C++.
 
 ### Body rate and roll/pitch control (scenario 2) ###
